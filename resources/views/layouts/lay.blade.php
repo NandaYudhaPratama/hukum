@@ -15,6 +15,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@100&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Chivo:wght@300&display=swap" rel="stylesheet">
 
+    <link href="https://allfont.net/allfont.css?fonts=agency-fb" rel="stylesheet" type="text/css" />
+
     <title>JDIH Pemerintah Kota Yogyakarta</title>
   </head>
   <body>
